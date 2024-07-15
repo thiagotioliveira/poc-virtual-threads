@@ -1,6 +1,6 @@
 # poc-virtual-threads
 
-PoC of virtual threads for the presentation on the ```KI_guild_backend``` channel.
+PoC of virtual threads for the presentation on the ```KI_guild_backend``` channel. (xgeeks - 16/07/2024)
 
 ## com.xgeeks.poc.thiagooliveira.virtualthreads.PocThreads
 
